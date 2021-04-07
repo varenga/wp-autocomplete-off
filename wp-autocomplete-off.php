@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Autocomplete Off
-Plugin URI: https://pikselin.es
+Plugin URI: https://github.com/varenga/wp-autocomplete-off
 Description: Permite quitar el autocompletado del formulario de acceso a Wordpress
 Version: 1.0.1
 Author: Xose de la Paz
